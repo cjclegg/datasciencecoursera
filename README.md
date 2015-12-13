@@ -1,2 +1,2 @@
-# test-repo
-This is a test repository
+# DataScienceCoursera
+File created for the DataScience Coursera class.
